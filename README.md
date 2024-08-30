@@ -1,6 +1,4 @@
-# rifat-server
-
-###How to use:
+# How to use:
 
 1. Go to the website: https://rifat1haker.github.io/rifat-server/
 
